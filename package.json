@@ -10,7 +10,8 @@
     "yeoman-generator"
   ],
   "files": [
-    "generators"
+    "generators",
+    ".editorconfig"
   ],
   "dependencies": {
     "yeoman-generator": "1.1.0"
